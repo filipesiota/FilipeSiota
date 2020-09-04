@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me
->I'm just starting to program for the web and I'm a great explorer. I'm trying to discover and learn new languages both for **front-end** and **back-end**.
-  
->I'm a young high school student trying to figure out and know more about this wide world of programming.
+>## About me
+>I'm starting to program for the web and I'm a great explorer. I'm trying to discover and learn new languages both for **front-end** and **back-end**.
+I'm a young high school student trying to figure out and know more about this wide world of programming.
