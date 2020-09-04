@@ -1,4 +1,4 @@
-### ![hello](https://user-images.githubusercontent.com/69269724/92279185-2a15ce80-eecd-11ea-977d-83f91a5e508a.gif) Hey everyone!
+### 👋🏼 Hey everyone!
 
 <!--
 **FilipeSiota/FilipeSiota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+>I'm just starting to program for the web and I'm a great explorer. I'm trying to discover and learn new languages both for <b>front-end<b> and <b>back-end<b>.
+  
+>I'm a young high school student trying to figure out and know more about this wide world of programming.
