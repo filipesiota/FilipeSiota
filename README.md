@@ -1,4 +1,4 @@
-### ![hello](https://user-images.githubusercontent.com/69269724/92278112-de622580-eeca-11ea-8d6a-d14ac6bdca9e.gif) Hey everyone!
+### ![hello](https://user-images.githubusercontent.com/69269724/92279185-2a15ce80-eecd-11ea-977d-83f91a5e508a.gif) Hey everyone!
 
 <!--
 **FilipeSiota/FilipeSiota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
