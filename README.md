@@ -1,4 +1,4 @@
-## 🌎 Hey everyone!
+### 🌎 Hey everyone!
 
 <!--
 **FilipeSiota/FilipeSiota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,4 @@ I'm starting to program for the web and I'm a great explorer. I'm trying to disc
 
 - 🌱 I’m currently learning **JavaScript**
 - 💬 Ask me about **HTML, CSS**
-- ⚡ Fun facts: **I'm a Potterhead and I love playing soccer ⚽**
+- ⚡ Fun facts: **I'm a Potterhead and I love to play soccer ⚽**
