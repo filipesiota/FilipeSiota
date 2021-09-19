@@ -20,4 +20,4 @@ I'm starting to program for the web and I'm a great explorer. I'm trying to disc
 
 - 🌱 I’m currently learning **JavaScript**
 - 💬 Ask me about **HTML, CSS**
-- ⚡ Fun facts: **I'm a Potterhead and I love to practice sports.**
+- ⚡ Fun facts: **I'm a Potterhead and I love practicing sports.**
