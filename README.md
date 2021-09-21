@@ -1,4 +1,4 @@
-## 🌎 Hey! I'm Filipe Mallmann Siota.
+## Hey! I'm Filipe Mallmann Siota
 
 #### 💻 About me
 I'm starting to program for the web and I'm a great explorer. I'm trying to discover and learn new languages both for **front-end** and **back-end**.<br>I'm a young high school student trying to figure out and know more about this wide world of programming.
