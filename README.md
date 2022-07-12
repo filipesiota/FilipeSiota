@@ -3,9 +3,9 @@
 ### 💻 About me
 I'm starting to program for the web and I'm a great explorer. I'm trying to discover and learn new languages both for **front-end** and **back-end**.<br>I'm a young high school student trying to figure out and know more about this wide world of programming.
 
-- 🌱 I’m currently learning **JavaScript, PHP and C/C++**.
-- 💬 Ask me about **HTML, CSS**.
-- ⚡ Fun facts: **I'm a Potterhead and I love practicing sports.**
+- 🌱 I’m currently learning **Java and React**.
+- 💬 Ask me about **HTML, CSS, JavaScript, C**.
+- ⚡ Fun facts: **I'm a Potterhead and I also love Stranger Things. One of the things that I like the most is practicing sports.**
 
 <div align="center">
   <a href="https://github.com/FilipeSiota" style="text-decoration: none;">
