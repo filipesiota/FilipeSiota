@@ -4,7 +4,7 @@
 I'm starting to program for the web and I'm a great explorer. I'm trying to discover and learn new languages both for **front-end** and **back-end**.<br>I'm a young high school student trying to figure out and know more about this wide world of programming.
 
 - 🌱 I’m currently learning **React and PHP**.
-- 💬 Ask me about **HTML, CSS, JavaScript, C, Java**.
+- 💬 Ask me about **HTML, CSS, JavaScript, C, Java, SQL**.
 - ⚡ Fun facts: **I'm a Potterhead and I also love Stranger Things. One of the things that I like the most is practicing sports.**
 - ⭐ I know how to solve a Rubik's Cube.
 
