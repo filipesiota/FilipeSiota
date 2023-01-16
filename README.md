@@ -9,8 +9,8 @@ I'm starting to program for the web and I'm a great explorer. I'm trying to disc
 
 <div align="center">
   <a href="https://github.com/FilipeSiota" style="text-decoration: none;">
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=FilipeSiota&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true">
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeSiota&layout=compact&theme=tokyonight">
+    <img height="180em" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FilipeSiota&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true">
+    <img height="180em" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilipeSiota&layout=compact&theme=tokyonight">
   </a>
 </div>
 
