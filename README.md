@@ -1,10 +1,10 @@
-## Hey! I'm Filipe Mallmann Siota
+## Hi there! I'm Filipe Mallmann Siota
 
 ### 💻 About me
-I'm starting to program for the web and I'm a great explorer. I'm trying to discover and learn new languages both for **front-end** and **back-end**.<br>I'm a young high school student trying to figure out and know more about this wide world of programming.
+I'm a software developer who loves learning new programming languages and helping others code. I enjoy diving into different languages to expand my skills and sharing what I've learned with fellow developers. Let's code together and explore the endless possibilities of software development!
 
-- 🌱 I’m currently learning **React and PHP**.
-- 💬 Ask me about **HTML, CSS, JavaScript, C, Java, SQL**.
+- 🌱 I’m currently learning **Go**.
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, SQL, Java, Objective-C, SAPUI5, Laravel**.
 - ⚡ Fun facts: **I'm a Potterhead and I also love Stranger Things. One of the things that I like the most is practicing sports.**
 - ⭐ I know how to solve a Rubik's Cube.
 
